@@ -46,6 +46,9 @@
 }
 ```
 
+![image](https://github.com/user-attachments/assets/5c091bf0-b1da-4542-8f49-84d4740b4237)
+
+
 *get products*
 ```
 query {
@@ -56,6 +59,8 @@ query {
   }
 }
 ```
+
+![image](https://github.com/user-attachments/assets/947f8cda-9a94-462d-b127-b2feb2870e98)
 
 *place an order*
 ```mutation {
@@ -69,3 +74,6 @@ query {
   }
 }
 ```
+
+![image](https://github.com/user-attachments/assets/4de8db3d-7d74-4779-bbdf-d5fd7fe3563d)
+
