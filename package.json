@@ -1,0 +1,25 @@
+{
+  "name": "graphql-microservices-test-nodejs",
+  "version": "1.0.0",
+  "description": "> **Demo project**—For testing purposes",
+  "keywords": [
+    "microservices",
+    "graphql",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/ahmed-khlifi/graphql-microservices-test-nodeJs#readme",
+  "bugs": {
+    "url": "https://github.com/ahmed-khlifi/graphql-microservices-test-nodeJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-khlifi/graphql-microservices-test-nodeJs.git"
+  },
+  "license": "MIT",
+  "author": "Ahmed Khelifi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
